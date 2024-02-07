@@ -1,2 +1,2 @@
-# ESP-IDF-Serialprint
-This repo contains all the files from my YouTube guide on how to use Serial.println with the ESP IDF. The config files are given for you to troubleshoot errors on your own.
+# How to use Arduino Serial.println() on ESP IDF / VSCode?
+Shortly on my [YouTube Channel]([https://github.com](https://www.youtube.com/channel/UCQqENHeopdPnHLn4WkCQR7w)https://www.youtube.com/channel/UCQqENHeopdPnHLn4WkCQR7w) I will start ESP IDF tutorials. This repo contains codes on how to use Arduino Serial.println when it is added as a component to ESP IDF. More on Links and Screenshots will be added once video is on release. Keep tuned.
